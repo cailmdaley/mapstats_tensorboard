@@ -6,8 +6,8 @@
                 20002,
                 7
             ],
-            "tensorPath": "https://gist.githubusercontent.com/cailmdaley/2737691a88ab7821332e70a503fb5696/raw/vectors.csv?cachebust",
-            "metadataPath": "https://gist.githubusercontent.com/cailmdaley/2737691a88ab7821332e70a503fb5696/raw/metadata.csv?cachebust"
+            "tensorPath": "https://raw.githubusercontent.com/cailmdaley/mapstats_tensorboard/master/vectors.csv",
+            "metadataPath": "https://raw.githubusercontent.com/cailmdaley/mapstats_tensorboard/master/metadata.csv",
         }
     ]
 }
