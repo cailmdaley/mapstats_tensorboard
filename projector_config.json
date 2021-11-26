@@ -7,7 +7,7 @@
                 7
             ],
             "tensorPath": "https://raw.githubusercontent.com/cailmdaley/mapstats_tensorboard/master/vectors.csv",
-            "metadataPath": "https://raw.githubusercontent.com/cailmdaley/mapstats_tensorboard/master/metadata.csv",
+            "metadataPath": "https://raw.githubusercontent.com/cailmdaley/mapstats_tensorboard/master/metadata.csv"
         }
     ]
 }
