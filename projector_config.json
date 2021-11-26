@@ -3,7 +3,7 @@
         {
             "tensorName": "map_cuts",
             "tensorShape": [
-                20022,
+                19960,
                 15
             ],
             "tensorPath": "https://raw.githubusercontent.com/cailmdaley/mapstats_tensorboard/master/vectors.csv",
