@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "map_cuts",
+            "tensorShape": [
+                20002,
+                7
+            ],
+            "tensorPath": "https://gist.githubusercontent.com/cailmdaley/2737691a88ab7821332e70a503fb5696/raw/vectors.csv?cachebust",
+            "metadataPath": "https://gist.githubusercontent.com/cailmdaley/2737691a88ab7821332e70a503fb5696/raw/metadata.csv?cachebust"
+        }
+    ]
+}
